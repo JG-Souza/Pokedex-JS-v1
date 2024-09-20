@@ -1,0 +1,19 @@
+{
+    "name": "sua-aplicacao",
+    "version": "1.0.0",
+    "description": "Uma aplicação web que faz requisições à PokeAPI",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve .",
+        "build": "echo 'No build step needed'"
+    },
+    "dependencies": {
+        "serve": "^14.2.3"
+    },
+    "engines": {
+        "node": ">=14.x"
+    },
+    "license": "MIT",
+    "keywords": [],
+    "author": ""
+}
